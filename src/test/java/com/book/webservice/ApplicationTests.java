@@ -3,11 +3,12 @@ package com.book.webservice;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class FreelecSpringbootWebserviceApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+@SpringBootTest
+class ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
 
 }
