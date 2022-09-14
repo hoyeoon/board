@@ -4,3 +4,6 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
     show_sql: true
+  h2:
+    console:
+      enabled: true
